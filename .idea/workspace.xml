@@ -1,7 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="Codeforces" targetName="122A_9" />
+      <config projectName="Codeforces" targetName="237A_28" />
+      <config projectName="Codeforces" targetName="228A_20" />
+      <config projectName="Codeforces" targetName="791A" />
+      <config projectName="Codeforces" targetName="141A_32" />
+      <config projectName="Codeforces" targetName="4A_8" />
+      <config projectName="Codeforces" targetName="977A" />
+      <config projectName="Codeforces" targetName="266B_10" />
+      <config projectName="Codeforces" targetName="82A_11" />
+      <config projectName="Codeforces" targetName="617A_11" />
+      <config projectName="Codeforces" targetName="59A_5" />
+      <config projectName="Codeforces" targetName="468A_24" />
+      <config projectName="Codeforces" targetName="405A_19" />
+      <config projectName="Codeforces" targetName="337A_9" />
+      <config projectName="Codeforces" targetName="118A_13" />
+      <config projectName="Codeforces" targetName="1A_8" />
+      <config projectName="Codeforces" targetName="281A_22" />
+      <config projectName="Codeforces" targetName="339A_11" />
+      <config projectName="Codeforces" targetName="FakeExe" />
+      <config projectName="Codeforces" targetName="451A_29" />
+      <config projectName="Codeforces" targetName="110A_20" />
+      <config projectName="Codeforces" targetName="472A_25" />
+      <config projectName="Codeforces" targetName="25A" />
+      <config projectName="Codeforces" targetName="236A_10" />
+      <config projectName="Codeforces" targetName="467A_17" />
+      <config projectName="Codeforces" targetName="158B_10" />
+      <config projectName="Codeforces" targetName="734A" />
+      <config projectName="Codeforces" targetName="499B" />
+      <config projectName="Codeforces" targetName="71A_13" />
+      <config projectName="Codeforces" targetName="677A" />
+      <config projectName="Codeforces" targetName="112A_11" />
+      <config projectName="Codeforces" targetName="136A_9" />
+      <config projectName="Codeforces" targetName="266A_8" />
+      <config projectName="Codeforces" targetName="133A_34" />
+      <config projectName="Codeforces" targetName="479A_26" />
+      <config projectName="Codeforces" targetName="116A_12" />
+      <config projectName="Codeforces" targetName="58A_9" />
+      <config projectName="Codeforces" targetName="344A_12" />
+      <config projectName="Codeforces" targetName="158A_12" />
+      <config projectName="Codeforces" targetName="160A_20" />
+      <config projectName="Codeforces" targetName="500A_33" />
+      <config projectName="Codeforces" targetName="200B" />
+      <config projectName="Codeforces" targetName="119A_21" />
+      <config projectName="Codeforces" targetName="282A_21" />
+      <config projectName="Codeforces" targetName="271A_11" />
+      <config projectName="Codeforces" targetName="131A_17" />
+      <config projectName="Codeforces" targetName="1030A" />
+      <config projectName="Codeforces" targetName="41A_9" />
+      <config projectName="Codeforces" targetName="61A_19" />
+      <config projectName="Codeforces" targetName="148A_10" />
+      <config projectName="Codeforces" targetName="96A_10" />
+      <config projectName="Codeforces" targetName="580A_19" />
+      <config projectName="Codeforces" targetName="379A_21" />
+      <config projectName="Codeforces" targetName="318A_17" />
+      <config projectName="Codeforces" targetName="469A_24" />
+      <config projectName="Codeforces" targetName="144A_19" />
+      <config projectName="Codeforces" targetName="69A_23" />
+      <config projectName="Codeforces" targetName="268A_21" />
+      <config projectName="Codeforces" targetName="426B_42" />
+      <config projectName="Codeforces" targetName="50A_14" />
+      <config projectName="Codeforces" targetName="231A_11" />
+      <config projectName="Codeforces" targetName="208A_18" />
+      <config projectName="Codeforces" targetName="427A_21" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -9,9 +73,16 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1fa5cf3-62a2-4ed2-8efe-a9b5ed9864ce" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="e1fa5cf3-62a2-4ed2-8efe-a9b5ed9864ce" name="Changes" comment="About 10 years old solutions">
+      <change afterPath="$PROJECT_DIR$/1030A.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/200B.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/677A.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/791A.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/977A.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Codeforces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Codeforces.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +91,10 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="SCHEME" value="Project" />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -44,13 +119,399 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="CMake Application.200B">
+    <configuration name="1030A" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="1030A" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="1030A">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="110A_20" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="110A_20" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="110A_20">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="112A_11" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="112A_11" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="112A_11">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="116A_12" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="116A_12" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="116A_12">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="118A_13" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="118A_13" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="118A_13">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="119A_21" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="119A_21" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="119A_21">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="122A_9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="122A_9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="122A_9">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="131A_17" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="131A_17" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="131A_17">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="133A_34" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="133A_34" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="133A_34">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="136A_9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="136A_9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="136A_9">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="141A_32" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="141A_32" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="141A_32">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="144A_19" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="144A_19" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="144A_19">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="148A_10" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="148A_10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="148A_10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="158A_12" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="158A_12" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="158A_12">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="158B_10" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="158B_10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="158B_10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="160A_20" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="160A_20" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="160A_20">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1A_8" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="1A_8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="1A_8">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="200B" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="200B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="200B">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="208A_18" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="208A_18" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="208A_18">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="228A_20" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="228A_20" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="228A_20">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="231A_11" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="231A_11" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="231A_11">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="236A_10" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="236A_10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="236A_10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="237A_28" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="237A_28" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="237A_28">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="25A" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="25A" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="25A">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="266A_8" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="266A_8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="266A_8">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="266B_10" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="266B_10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="266B_10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="268A_21" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="268A_21" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="268A_21">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="271A_11" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="271A_11" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="271A_11">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="281A_22" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="281A_22" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="281A_22">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="282A_21" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="282A_21" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="282A_21">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="318A_17" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="318A_17" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="318A_17">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="337A_9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="337A_9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="337A_9">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="339A_11" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="339A_11" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="339A_11">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="344A_12" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="344A_12" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="344A_12">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="379A_21" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="379A_21" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="379A_21">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="405A_19" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="405A_19" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="405A_19">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="41A_9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="41A_9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="41A_9">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="426B_42" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="426B_42" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="426B_42">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="427A_21" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="427A_21" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="427A_21">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="451A_29" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="451A_29" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="451A_29">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="467A_17" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="467A_17" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="467A_17">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="468A_24" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="468A_24" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="468A_24">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="469A_24" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="469A_24" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="469A_24">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="472A_25" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="472A_25" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="472A_25">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="479A_26" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="479A_26" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="479A_26">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="499B" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="499B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="499B">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4A_8" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="4A_8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="4A_8">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="500A_33" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="500A_33" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="500A_33">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="50A_14" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="50A_14" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="50A_14">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="580A_19" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="580A_19" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="580A_19">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="58A_9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="58A_9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="58A_9">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="59A_5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="59A_5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="59A_5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="617A_11" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="617A_11" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="617A_11">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="61A_19" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="61A_19" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="61A_19">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="677A" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="677A" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="677A">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="69A_23" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="69A_23" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="69A_23">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="71A_13" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="71A_13" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="71A_13">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="734A" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="734A" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="734A">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="791A" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="791A" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="791A">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="82A_11" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="82A_11" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="82A_11">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="96A_10" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="96A_10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="96A_10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="977A" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="977A" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="977A">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FakeExe" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Codeforces" TARGET_NAME="FakeExe" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Codeforces" RUN_TARGET_NAME="FakeExe">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="CMake Application.1030A" />
+      <item itemvalue="CMake Application.110A_20" />
+      <item itemvalue="CMake Application.112A_11" />
+      <item itemvalue="CMake Application.116A_12" />
+      <item itemvalue="CMake Application.118A_13" />
+      <item itemvalue="CMake Application.119A_21" />
+      <item itemvalue="CMake Application.122A_9" />
+      <item itemvalue="CMake Application.131A_17" />
+      <item itemvalue="CMake Application.133A_34" />
+      <item itemvalue="CMake Application.136A_9" />
+      <item itemvalue="CMake Application.141A_32" />
+      <item itemvalue="CMake Application.144A_19" />
+      <item itemvalue="CMake Application.148A_10" />
+      <item itemvalue="CMake Application.158A_12" />
+      <item itemvalue="CMake Application.158B_10" />
+      <item itemvalue="CMake Application.160A_20" />
+      <item itemvalue="CMake Application.1A_8" />
+      <item itemvalue="CMake Application.200B" />
+      <item itemvalue="CMake Application.208A_18" />
+      <item itemvalue="CMake Application.228A_20" />
+      <item itemvalue="CMake Application.231A_11" />
+      <item itemvalue="CMake Application.236A_10" />
+      <item itemvalue="CMake Application.237A_28" />
+      <item itemvalue="CMake Application.25A" />
+      <item itemvalue="CMake Application.266A_8" />
+      <item itemvalue="CMake Application.266B_10" />
+      <item itemvalue="CMake Application.268A_21" />
+      <item itemvalue="CMake Application.271A_11" />
+      <item itemvalue="CMake Application.281A_22" />
+      <item itemvalue="CMake Application.282A_21" />
+      <item itemvalue="CMake Application.318A_17" />
+      <item itemvalue="CMake Application.337A_9" />
+      <item itemvalue="CMake Application.339A_11" />
+      <item itemvalue="CMake Application.344A_12" />
+      <item itemvalue="CMake Application.379A_21" />
+      <item itemvalue="CMake Application.405A_19" />
+      <item itemvalue="CMake Application.41A_9" />
+      <item itemvalue="CMake Application.426B_42" />
+      <item itemvalue="CMake Application.427A_21" />
+      <item itemvalue="CMake Application.451A_29" />
+      <item itemvalue="CMake Application.467A_17" />
+      <item itemvalue="CMake Application.468A_24" />
+      <item itemvalue="CMake Application.469A_24" />
+      <item itemvalue="CMake Application.472A_25" />
+      <item itemvalue="CMake Application.479A_26" />
+      <item itemvalue="CMake Application.499B" />
+      <item itemvalue="CMake Application.4A_8" />
+      <item itemvalue="CMake Application.500A_33" />
+      <item itemvalue="CMake Application.50A_14" />
+      <item itemvalue="CMake Application.580A_19" />
+      <item itemvalue="CMake Application.58A_9" />
+      <item itemvalue="CMake Application.59A_5" />
+      <item itemvalue="CMake Application.617A_11" />
+      <item itemvalue="CMake Application.61A_19" />
+      <item itemvalue="CMake Application.677A" />
+      <item itemvalue="CMake Application.69A_23" />
+      <item itemvalue="CMake Application.71A_13" />
+      <item itemvalue="CMake Application.734A" />
+      <item itemvalue="CMake Application.791A" />
+      <item itemvalue="CMake Application.82A_11" />
+      <item itemvalue="CMake Application.96A_10" />
+      <item itemvalue="CMake Application.977A" />
+      <item itemvalue="CMake Application.FakeExe" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -61,7 +522,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637652169974</updated>
       <workItem from="1637652171574" duration="5620000" />
-      <workItem from="1637659200820" duration="1000" />
+      <workItem from="1637659200820" duration="4581000" />
     </task>
     <task id="LOCAL-00001" summary="About 10 years ago">
       <created>1637658031497</created>
